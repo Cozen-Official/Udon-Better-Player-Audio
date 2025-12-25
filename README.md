@@ -16,7 +16,7 @@ You can optionally set a check interval to force update at a specified interval 
 
 The custom editor displays the curve and settings in real time so you can visually see how the audio settings will be adjusted as player count changes. 
 
-<img width="382" height="588" alt="image" src="https://github.com/user-attachments/assets/8afecc98-2cde-4761-a496-6de4180dec6f" />
+<img width="764" height="1176" alt="image" src="https://github.com/user-attachments/assets/8afecc98-2cde-4761-a496-6de4180dec6f" />
 
 Setup: 
 
