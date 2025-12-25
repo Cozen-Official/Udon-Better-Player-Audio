@@ -10,6 +10,13 @@ Each curve affects the interpolation between the Start and End values.
 You can optionally set a check interval to force update at a specified interval (in seconds). This shouldn't be needed, as it works on join/leave events, but the check can help if those events are missed for some reason or another.
 The custom editor displays the curve and settings in real time so you can visually see how the audio settings will be adjusted as player count changes.
 
+
 <img width="382" height="588" alt="image" src="https://github.com/user-attachments/assets/8afecc98-2cde-4761-a496-6de4180dec6f" />
+
+Setup:
+Import the package.
+Add the "Better Player Audio" component on any active gameobject in your scene.
+Adjust settings as desired.
+Profit.
 
 Contact "cozen." on Discord for support or join [My Discord](https://discord.gg/ZWRWCgnE3P)
