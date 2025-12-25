@@ -2,7 +2,7 @@
 The Better Player Audio component is an udon script that adjusts the far distance and voice gain of remote players based on the number of players in the instance.
 This helps with small or crowded vrchat worlds where many players may be talking in close proximity. 
 
-The values interoplate between the Start and End values as player count changes between Min Player and Max Player thresholds. 
+The values interoplate between the Start and End values as player count changes between Min Player and Max Player thresholds. Supports up to 100 player instances (unusual).
 You can set Start and End values for both Far Distance and Voice Gain.
 You can also set the voice low pass filter (default on).
 Nine interpolation curves are available: linear, ease-in, ease-out, ease-in-out, smoothstep, smootherstep, exponential, diminishing, and log like.
