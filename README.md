@@ -1,4 +1,4 @@
-# Udon-Better-Player-Audio
+# Udon Better Player Audio
 The Better Player Audio component is an udon script that adjusts the far distance and voice gain of remote players based on the number of players in the instance.
 This helps with small or crowded vrchat worlds where many players may be talking in close proximity. 
 
